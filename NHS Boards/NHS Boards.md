@@ -1,4 +1,4 @@
-#The Organisation of NHSScotland#
+# The Organisation of NHSScotland #
 
 Care in NHSScotland is organised by a number of NHS boards.
 
